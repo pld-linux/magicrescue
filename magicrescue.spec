@@ -1,7 +1,7 @@
 Summary:	Recovery tool using "magic bytes"
 Name:		magicrescue
 Version:	1.1.9
-Release:	1
+Release:	2
 License:	GPL v2
 Group:		Applications/System
 Source0:	http://www.itu.dk/people/jobr/magicrescue/release/%{name}-%{version}.tar.gz
